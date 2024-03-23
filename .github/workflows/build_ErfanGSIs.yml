@@ -13,10 +13,8 @@ on:
   watch:
     types: [started]
     
-env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.6.0.SKMCNXM/miui_ODIN_V13.0.6.0.SKMCNXM_970df7504a_12.0.zip
-  ROM_NAME: MIUI 13
-  BUILD_TYPE: ab
+env: https://14-154-156-123-yf93a7dc.nodeedge.cn:9533/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu21/10.5.0.1/cn/20240226154233/be91c71a/update.zip?bcecdn_trace_info=OVI4ITwaaEUhGlshBxYSKSoVZ39wFHAXbUJLOwYbFSssLyIqNlZwGi0ANycxXDxWIAgMLBARHXs%3D&f_ver=v1&limit_rate=20971520&max_age=7776000&r=KgQmOSECfUgpERsvBBQBL2wdNyAoTXwEIBVGBBoHHj0jAjdmFFQrCipXBCcaDwZ4c19jeXwNfFdhSUYhHVpBenBEYntgDmNSe0pacVwXFnNzE2V4MxcnFysZHSddDxo6LQA3JzFcPFYgCAwsEBEdew%3D%3D&MqD7sp=l56Ml8Kdm4abkYygysudmZzJx87Oz5nNnMvMmpvNmsrPm83GmciZx5uZncqbysbPzs2ayNmGmZuMj4vCzsjOzs3PzM7Lx8rHzNmMnIqWm8KJzZCGmJu-zK2Sj4zNuJLMmIyNp9mGmY-NlsLOzc_Zi5aSmpCKi8LOyM7MyMbKzsvH2ZyXmpyUws3Mz8jKzsbKy8nZjZqOjI-bws3Oz9mGmZCPi8LKzc4~&UYs5cp=hpmXkIyLws7NyNHP0c_RztmGmYyUlo_CzdmGmZybkZCPi8LO2YaZi5aSmsLOyM7Ozc_MzsnLz8_K2YaZnp2Mws_ZhpmMj5OSi8Lavsbazsbau8fax7zax8nayLu22rrLp9mGmY2ajpabws2dyJ7Jx5vGy5yenJnMx5yenp6cnsjNyc7Hy5vNy8qd
+  BUILD_TYPE: AOnly
   TZ: Asia/Shanghai
 
 jobs:
